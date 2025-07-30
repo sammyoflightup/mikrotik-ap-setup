@@ -1,4 +1,4 @@
-[Quick Command Cheat Shee.txt](https://github.com/user-attachments/files/21514644/Quick.Command.Cheat.Shee.txt)# mikrotik-ap-setup
+[Quick Command Cheat Shee.txt](https://github.com/user-attachments/files/21514663/Quick.Command.Cheat.Shee.txt)[Quick Command Cheat Shee.txt](https://github.com/user-attachments/files/21514644/Quick.Command.Cheat.Shee.txt)# mikrotik-ap-setup
 Step-by-step guide to setting up MikroTik routers as access points for seamless WiFi across a space. Includes diagrams, config tips, and cheat sheets.
 # MikroTik Access Point Setup Guide
 
@@ -37,18 +37,19 @@ Create a stable WiFi system where:
 ---
 
 ## 📎 Files
-- `/diagram/mikrotik_ap_diag![Screenshot_30-7-2025_95738_app diagrams net](https://github.com/user-attachments/assets/94cdfb32-da6e-451c-a793-5bcb18464512)
-ram.drawio`
-- `/cheatsheet/mikrotik-ap-cheats[How to Set Up a Single Secure WiFi Network.pdf](https://github.com/user-attachments/files/21514625/How.to.Set.Up.a.Single.Secure.WiFi.Network.pdf)
-heet.pdf`
-- `/configs/cli-commands.txt`[/ip address add address=192.168.88.2/24 interface=ether1
+
+![Diagram](https://github.com/user-attachments/assets/e0d7c7f2-6125-4408-9acc-fa6658d90366)
+[How to Set Up a Single Secure WiFi Network.pdf](https://github.com/user-attachments/files/21514662/How.to.Set.Up.a.Single.Secure.WiFi.Network.pdf)
+
+[Uploading Q/ip address add address=192.168.88.2/24 interface=ether1
 /ip dhcp-client remove 0
 /ip dhcp-server disable 0
 /interface wireless set [find] ssid="YourWiFi" disabled=no
 /interface bridge add name=bridge1
 /interface bridge port add interface=ether1 bridge=bridge1
 /interface bridge port add interface=wlan1 bridge=bridge1
-Uploading Quick Command Cheat Shee.txt…]()
+uick Command Cheat Shee.txt…]()
+
 
 
 ---
