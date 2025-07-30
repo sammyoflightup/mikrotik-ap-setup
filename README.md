@@ -39,6 +39,8 @@ Create a stable WiFi system where:
 ## 📎 Files
 
 ![Diagram](https://github.com/user-attachments/assets/e0d7c7f2-6125-4408-9acc-fa6658d90366)
+
+
 [How to Set Up a Single Secure WiFi Network.pdf](https://github.com/user-attachments/files/21514662/How.to.Set.Up.a.Single.Secure.WiFi.Network.pdf)
 
 [Uploading Q/ip address add address=192.168.88.2/24 interface=ether1
