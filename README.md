@@ -1,5 +1,3 @@
-[Quick Command Cheat Shee.txt](https://github.com/user-attachments/files/21514663/Quick.Command.Cheat.Shee.txt)[Quick Command Cheat Shee.txt](https://github.com/user-attachments/files/21514644/Quick.Command.Cheat.Shee.txt)# mikrotik-ap-setup
-Step-by-step guide to setting up MikroTik routers as access points for seamless WiFi across a space. Includes diagrams, config tips, and cheat sheets.
 # MikroTik Access Point Setup Guide
 
 This project helps beginners configure multiple MikroTik routers into a single, secure, and seamless WiFi network across a home, office, or studio.
